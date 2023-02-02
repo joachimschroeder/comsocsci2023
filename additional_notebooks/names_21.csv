@@ -1,0 +1,717 @@
+,first,last
+0, Karl,Aberer
+1, Silke,Adam
+2, David,Adelani
+3, Nitin,Agarwal
+4, Minali,Aggarwal
+5, Yong-Yeol,Ahn
+6, Luca,Aiello
+7, Aliakbar,Akbaritabar
+8, Ozan,Aksoy
+9, Laura,Alessandretti
+10, Monica,Alexander
+11, Maxwell,Aliapoulios
+12, Jennifer,Allen
+13, Aleksandra,Alorić
+14, José-Ignacio,Alvarez-Hamelin
+15, Yuri A.,Amirkhanian
+16, Jisun,An
+17, Ashton,Anderson
+18, Harshit,Aneja
+19, Eiji,Aramaki
+20, Luke,Archer
+21, Antonio,Arechar
+22, Samin,Aref
+23, Guy,Aridor
+24, Emanuele,Arielli
+25, Oriol,Artime
+26, David,Axelrod
+27, Narges,Azizi Fard
+28, Michael,Bailey
+29, Paolo,Bajardi
+30, Stefano,Balietti
+31, Duilio,Balsamo
+32, Sven,Banisch
+33, Mauricio,Barahona
+34, Daniel,Barkoczi
+35, Andrea,Baronchelli
+36, Andrea,Baronchelli
+37, Hamsa,Bastani
+38, Osbert,Bastani
+39, Alice,Battiston
+40, Leo,Bauer
+41, Srikanta,Bedathur
+42, Doug,Beeferman
+43, Bianca,Beersma
+44, Mariano G.,Beiró
+45, Luca,Belli
+46, Michael S.,Bernstein
+47, George,Berry
+48, Saumya,Bhadani
+49, Indrajit,Bhattacharya
+50, Monica,Bhole
+51, Daniel,Bilsen
+52, Jeremy,Blackburn
+53, Matteo,Bohm
+54, Anton,Boichenko
+55, Eszter,Bokanyi
+56, Philip,Borgmann
+57, Krisztián,Boros
+58, Lia,Bozarth
+59, Alberto,Bracci
+60, Marco,Brambilla
+61, Alexander,Brand
+62, Johannes,Breuer
+63, Levin,Brinkmann
+64, Kevin,Brito
+65, Sian,Brooke
+66, Marc-Etienne,Brunet
+67, John,Bryden
+68, Ceren,Budak
+69, Jason,Burton
+70, Lucas,Böttcher
+71, Cristian,Candia
+72, Hancheng,Cao
+73, Likun,Cao
+74, Luca,Carbone
+75, Dominique,Cardon
+76, Kathleen,Carley
+77, Nicole B.,Carnegie
+78, Nicola,Castaldo
+79, Michele,Catasta
+80, Manuel,Cebrian
+81, Manuel,Cebrian
+82, Elisa,Celis
+83, Meeyoung,Cha
+84, Meeyoung,Cha
+85, Meeyoung,Cha
+86, Je Hoon,Chae
+87, Ho-Chun Herbert,Chang
+88, Serina,Chang
+89, Luisa Fernanda,Chaparro
+90, Anthony,Chen
+91, Hong,Chen
+92, Huei-Yen,Chen
+93, Juan,Chen
+94, Liangwei,Chen
+95, Tsuhan,Chen
+96, Victor,Chen
+97, Yingying,Chen
+98, Yutao,Chen
+99, Ziwen,Chen
+100, Hocine,Cherifi
+101, Pui Yin,Cheung
+102, Arnaud,Chiolero
+103, Eunseo,Choi
+104, Minje,Choi
+105, Jayesh,Choudhari
+106, Giovanni Luca,Ciampaglia
+107, Aaron,Clauset
+108, Lena,Clever
+109, Nico,Clever
+110, Jean-Philippe,Cointet
+111, Giovanni,Colavizza
+112, Tina,Comes
+113, Isabel,Constantino
+114, Isabel,Constantino
+115, Risto,Conte Keivabu
+116, Alicia,Cork
+117, Rense,Corten
+118, Rodrigo,Costas
+119, Alberto,Cottica
+120, Teodoro,Criscione
+121, Molly J.,Crockett
+122, Hao,Cui
+123, Mary,Czerwinski
+124, Christian,Czymara
+125, Valeria,D'Andrea
+126, Jamell,Dacon
+127, Henry,Dambanemuya
+128, Lluis,Danus
+129, Subhro,Das
+130, Anirban,Dasgupta
+131, Igor,de Almeida
+132, Emiliano,De Cristofaro
+133, Manlio,De Domenico
+134, Manlio,De Domenico
+135, Gianmarco,De Francisci Morales
+136, Gianmarco,De Francisci Morales
+137, Rachel,de Jong
+138, Nima,Dehmamy
+139, James,Deitrick
+140, Emanuele,Del Fava
+141, Joyce,Delnoij
+142, Yulia,Dementeva
+143, Esther,Denecke
+144, Matthew R.,Deverna
+145, Paramveer,Dhillon
+146, Anna,Di Natale
+147, N'Godjigui Junior,Diarrassouba
+148, Marios,Dikaiakos
+149, Tomáš,Diviák
+150, Shohei,Doi
+151, Sofia,Dokuka
+152, Emese,Domahidi
+153, Yuhao,Du
+154, Tomislav,Duricic
+155, Dean,Eckles
+156, Tugrulcan,Elmas
+157, Amin,Endah Sulistiawati
+158, Şeyda,Ertekin
+159, Camilo,Estrada
+160, James,Evans
+161, James,Evans
+162, Jesse Michael,Fagan
+163, Emilio,Ferrara
+164, Leonardo,Ferreira
+165, Firman,Firmansyah
+166, Kristen,Flaherty
+167, Alessandro,Flammini
+168, Alessandro,Flammini
+169, Fabian,Flöck
+170, Lluc,Font-Pomarol
+171, Santo,Fortunato
+172, Brooke,Foucault Welles
+173, Samuel,Fraiberger
+174, Frederico,Francisco
+175, Morgan,Frank
+176, Dan,Frankowski
+177, Diego,Fregolent Mendes de Oliveira
+178, Seth,Frey
+179, Lena,Frischlich
+180, Caterina,Froio
+181, Devin,Gaffney
+182, Mirta,Galesic
+183, Angela,Gallo
+184, Angela,Gallo
+185, Riccardo,Gallotti
+186, Yérali,Gandica
+187, Abiram,Gangavaram
+188, Jian,Gao
+189, David,Garcia
+190, David,Garcia
+191, Javier,Garcia-Bernardo
+192, Kiran,Garimella
+193, Darren,Gergle
+194, Hans,Gersbach
+195, Lise,Getoor
+196, Deniz,Gezerli
+197, Amir,Ghasemian
+198, Sayan,Ghosh
+199, Kristina,Gligoric
+200, Amit,Goldenberg
+201, Daniel G.,Goldstein
+202, Joana,Gonçalves-Sá
+203, Joana,Gonçalves-Sá
+204, Przemyslaw,Grabowicz
+205, Ger,Graus
+206, Ian,Gray
+207, Siobhan,Grayson
+208, Derek,Greene
+209, James,Gross
+210, Thomas,Grund
+211, Katerina,Guba
+212, Roger,Guimera
+213, Roger,Guimerà
+214, Weisi,Guo
+215, Sairam,Gurajada
+216, Francisco,Gómez
+217, A. Gül,Gökay Emel
+218, Daniel,Haberly
+219, Markus,Hadler
+220, Marloes,Hagens
+221, Ulrike,Hahn
+222, Samar,Haider
+223, Scott,Hale
+224, Sungwon,Han
+225, Forrest,Hangen
+226, Jacqueline,Hannan
+227, Martyn,Harris
+228, Valentin,Hartmann
+229, Ani,Harutyunyan
+230, Amelia,Hassoun
+231, Sijun,He
+232, Yuanmo,He
+233, Brent,Hecht
+234, Denis,Helic
+235, Charlotte,Hemelrijk
+236, Laura,Hernández
+237, Thomas,Hills
+238, Justin Chun-Ting,Ho
+239, Moritz,Hoferer
+240, Bas,Hofstra
+241, Inho,Hong
+242, Joe,Hoover
+243, Manoel,Horta Ribeiro
+244, Eric,Horvitz
+245, Emőke-Ágnes,Horvát
+246, Mohamad,Hosseinioun
+247, Homa,Hosseinmardi
+248, Homa,Hosseinmardi
+249, Margaret,Hu
+250, Xinlan Emily,Hu
+251, Shengchun,Huang
+252, Pik-Mai,Hui
+253, Miriam,Hurtado Bodell
+254, Tulin,Inkaya
+255, Shamsi,Iqbal
+256, Bernd,Irlenbusch
+257, Kenji,Itao
+258, Jessica,Jacobson
+259, Kokil,Jaidka
+260, Ákos,Jakobi
+261, Petr,Janský
+262, Alireza,Javadian Sabet
+263, Henrik,Jensen
+264, Shagun,Jhaver
+265, Ching,Jin
+266, Elise,Jing
+267, Isaac,Johnson
+268, Kara L.,Johnson
+269, Shane,Johnson
+270, Benjamin,Jones
+271, Keenan,Jones
+272, Kenneth,Joseph
+273, Maya,Josifovska
+274, Sándor,Juhász
+275, Woo-Sung,Jung
+276, David,Jurgens
+277, Jonas L.,Juul
+278, Kyriaki,Kalimeri
+279, Kiyoshi,Kanazawa
+280, Kunihiko,Kaneko
+281, Anastasiia,Kapuza
+282, Márton,Karsai
+283, Judith,Kas
+284, Eszter,Katona
+285, Jared,Katzman
+286, Talia,Kaufmann
+287, Ashkan,Kazemi
+288, Arto,Kekkonen
+289, János,Kertész
+290, Anna,Keuchenius
+291, Marc,Keuschnigg
+292, Ashiqur,Khudabukhsh
+293, Emre,Kiciman
+294, Lanu,Kim
+295, Sundong,Kim
+296, Gautam,Kishore Shahi
+297, Rene,Kizilcec
+298, Bennett,Kleinberg
+299, Jon,Kleinberg
+300, Peter,Klimek
+301, Christoph,Klimmt
+302, Beate,Klösch
+303, Zoltán,Kmetty
+304, Ryota,Kobayashi
+305, Julian,Kohne
+306, Sadamori,Kojaku
+307, Sadamori,Kojaku
+308, Júlia,Koltai
+309, Miriam,Koschate
+310, Dimitris,Kotzinos
+311, Ádám,Kovács
+312, Frauke,Kreuter
+313, Nour,Kteily
+314, Jan,Kubik
+315, Shankar,Kumar
+316, Shuhei,Kurizaki
+317, Keigo,Kusumegi
+318, Nils,Köbis
+319, Tim,König
+320, Nicholas,LaBerge
+321, Giuseppe Joe,Labiancaba
+322, Simone,Lackner
+323, Daniel B.,Larremore
+324, Jana,Lasser
+325, Carlos X.,Lastra-Anadon
+326, Moritz,Laurer
+327, Eric,Leclercq
+328, Chia-Jung,Lee
+329, Eun,Lee
+330, Hansol,Lee
+331, Jonghyun,Lee
+332, Kangsan,Lee
+333, Sang Yup,Lee
+334, Seungeon,Lee
+335, Yu Jin,Lee
+336, Sune,Lehmann
+337, Yphtach,Lelkes
+338, Florian,Lemmerich
+339, Balazs,Lengyel
+340, Balázs,Lengyel
+341, Bruno,Lepri
+342, Jure,Leskovec
+343, Mark,Levene
+344, Elisabeth,Lex
+345, Bryan,Li
+346, Muyang,Li
+347, Shujun,Li
+348, Weifeng,Li
+349, Xiancheng,Li
+350, Kongmeng,Liew
+351, Yiling,Lin
+352, Julio,Linares
+353, David,Liu
+354, Feifan,Liu
+355, Haochen,Liu
+356, Tanzhou,Liu
+357, Corey,Lofdahl
+358, Lara,Lofdahl
+359, Sophie,Lohmann
+360, Nik,Lomax
+361, Yingdan,Lu
+362, Lorenzo,Lucchini
+363, Martin,Lukac
+364, Lan,Luo
+365, Zhifan,Luo
+366, Deborah,Lupton
+367, Zeyu,Lyu
+368, Gloria Wai Shan,Ma
+369, Michael,Macy
+370, Navid,Madani
+371, Måns,Magnusson
+372, Kartiki,Maheshwari
+373, Tung-Duong,Mai
+374, Suman Kalyan,Maity
+375, Tim A,Majchrzak
+376, Mykola,Makhortykh
+377, Marina,Mancoridis
+378, Karunakar Reddy,Mannem
+379, Lev,Manovich
+380, Leib,Margarita
+381, Cameron,Martel
+382, Binny,Mathew
+383, Carolina,Mattsson
+384, Tiggey,May
+385, David,McClure
+386, Damon,McCoy
+387, Harvey,McGuinness
+388, Reid,McIlroy-Young
+389, Victoria,Medvec
+390, Sourav,Medya
+391, Yelena,Mejova
+392, Guy,Melançon
+393, Filippo,Menczer
+394, Julia,Mendelsohn
+395, Jia,Mengzhen
+396, Anastasia,Menshikova
+397, Kieran,Mepham
+398, Sara,Mesquita
+399, Sara,Mesquita
+400, Solomon,Messing
+401, Hannah,Metzler
+402, Jonathan,Mijs
+403, Jeremiah,Milbauer
+404, Staša,Milojević
+405, Seokyoung,Min
+406, Shubhanshu,Mishra
+407, Sudhanshu,Mishra
+408, Lewis,Mitchell
+409, Marija,Mitrović Dankulov
+410, Kunihiro,Miyazaki
+411, Takayuki,Mizuno
+412, Markus,Mobius
+413, Andreï,Mogoutov
+414, Richard,Mole
+415, Anna,Molnár
+416, Corrado,Monti
+417, Allison,Morgan
+418, Esteban,Moro
+419, Mohsen,Mosleh
+420, Subhayan,Mukerjee
+421, Animesh,Mukherjee
+422, Deblina,Mukherjee
+423, Ksenia,Mukhina
+424, Sebastian,Munoz-Najar Galvez
+425, Carles,Muntaner
+426, Taichi,Murayama
+427, Goran,Muric
+428, Dakota,Murray
+429, Thomas F.,Müller
+430, Matthieu,Nadini
+431, Mirco,Nanni
+432, Ludovico,Napoli
+433, Luz Angela,Narvaez
+434, Sergio,Nasarre-Aznar
+435, Elahe,Naserian
+436, Mehwish,Nasim
+437, Zachary,Neal
+438, Frank,Neffke
+439, Leonie,Neuhäuser
+440, Frank,Neumann
+441, Christos,Nicolaides
+442, Nicos,Nicolaou
+443, Thomas,Niederkrotenthaler
+444, Jessica,Nordell
+445, Martin,Novák
+446, Jason,Nurse
+447, Anne-Marie,Nussberger
+448, Brendan,Nyhan
+449, Daniel,O'Brien
+450, Katherine,O'Toole
+451, Ferda,Ofli
+452, Oral,Okan
+453, Benjamin,Ooghe-Tabanou
+454, Rebekah,Overdorf
+455, Yilmazcan,Ozyurt
+456, Miroslav,Palanský
+457, George,Pallis
+458, Jennifer,Pan
+459, André,Panisson
+460, Pietro,Panzarasa
+461, Luca,Pappalardo
+462, Paolo,Parigi
+463, Jaehyuk,Park
+464, Jaehyuk,Park
+465, Sungkyu,Park
+466, Brian,Parkinson
+467, Arjunil,Pathak
+468, Jiaxin,Pei
+469, Max,Pellert
+470, Hao,Peng
+471, Hongwei,Peng
+472, Gordon,Pennycook
+473, Alex,Pentland
+474, Nicholas,Perello
+475, Lília,Perfeito
+476, Alan,Perotti
+477, Rémi,Perrier
+478, Brea,Perry
+479, Niccolo,Pescetelli
+480, Niccolò,Pescetelli
+481, Gulcan,Petricli
+482, Maxime,Peyrard
+483, Chrysan Angela,Piarso
+484, Tiziano,Piccardi
+485, Francesco,Pierri
+486, Charlie,Pilgrim
+487, Bruno,Pinaud
+488, Guillaume,Plique
+489, Shirsendu,Podder
+490, Daniel,Possler
+491, Iacopo,Pozzana
+492, Shivangi,Prasad
+493, Ahmad,Pratama
+494, Vjosa,Preniqi
+495, Ylli,Prifti
+496, Alessandro,Provetti
+497, Cristian,Pulido
+498, Maria Teresa,Pulido
+499, Yifan,Qian
+500, Daniele,Quercia
+501, Hari,Raghavan
+502, Iyad,Rahwan
+503, Ashwin,Rajadesingan
+504, Stephany,Rajeh
+505, Daniele,Rama
+506, Pedro,Ramaciotti Morales
+507, David,Rand
+508, Cameron,Raymond
+509, Miriam,Redi
+510, Michael,Reiss
+511, Markus,Reiter-Haas
+512, Benjamin,Renoust
+513, Paul,Resnick
+514, Polina,Revina
+515, Sarah,Rezaei
+516, Allissa,Richardson
+517, Lukas,Richter
+518, Simone,Righi
+519, Rainer,Rilke
+520, Bernard,Rimé
+521, Sean,Rintel
+522, Pedro,Rio
+523, Daniel,Romero
+524, David,Rothschild
+525, Brandon,Roy
+526, Deb,Roy
+527, Jorge,Rudas
+528, Thorsten,Ruprechter
+529, Alex,Rutherford
+530, Kevin,S Chan
+531, Pierluigi,Sacco
+532, Pierluigi,Sacco
+533, P Kumar,Sachin
+534, Mohammad Amin,Sadeghi
+535, Diego,Saez-Trumper
+536, Melanie,Sage
+537, Punyajoy,Saha
+538, Anand,Sahasranaman
+539, Charalampos,Saitis
+540, Marta,Sales-Pardo
+541, Marta,Sales-Pardo
+542, Alberto,Salomone
+543, Mattia,Samory
+544, Christian,Sandvig
+545, Mary,Sanford
+546, Yukie,Sano
+547, Lana,Sanyoura
+548, Sahiti,Sarva
+549, Kazutoshi,Sasahara
+550, Martin,Saveski
+551, Marinette,Savonnet
+552, Tim,Schatto-Eckrodt
+553, Michael,Schaub
+554, Hendrik,Schawe
+555, Aaron,Schecter
+556, Jule,Scheper
+557, Rossano,Schifanella
+558, Rossano,Schifanella
+559, Max,Schindler
+560, Daniela,Schmid
+561, Heidi,Schulze
+562, Jonas Paul,Schöne
+563, Wolf,Schünemann
+564, Valeria,Secchini
+565, Volker,Seiser
+566, Indira,Sen
+567, Siddhartha,Sen
+568, Egemen,Sert
+569, Hawal,Shamon
+570, Wei,Shan
+571, Hirokazu,Shirado
+572, Park,Sinchaisri
+573, Karandeep,Singh
+574, Mikhail,Sirenko
+575, Antonio,Sirianni
+576, Elizaveta,Sivak
+577, Ryan,Skorupski
+578, Ivan,Smirnov
+579, Cláudia,Soares
+580, Mikhail,Sokolov
+581, Felix,Soldner
+582, Hyunho,Song
+583, Johannes,Sorger
+584, Didier,Sornette
+585, Andreas,Spitz
+586, Felix,Stamm
+587, Bogdan,State
+588, Guy,Stecklov
+589, Alberto,Stefanelli
+590, Dimosthenis,Stefanidis
+591, Jonas,Stein
+592, Sebastian,Stier
+593, Zachary,Stine
+594, Lydia,Stone
+595, Gianluca,Stringhini
+596, Markus,Strohmaier
+597, Michael,Sverdlov
+598, Micheal,Szell
+599, Karoly,Takacs
+600, Frank,Takes
+601, Hiroki,Takikawa
+602, Hiroki,Takikawa
+603, Bayu Adhi,Tama
+604, Ying Kiat,Tan
+605, Jiliang,Tang
+606, Jaime,Teevan
+607, Tiago,Teixeira Santos
+608, Anna,Telling
+609, Johanna,Temps
+610, Omkar,Terse
+611, Martina,Testori
+612, Alexander,Teytelboym
+613, Stefan,Thurner
+614, Katharina,Tittel
+615, Aleksandar,Tomašević
+616, Manuel,Tonneau
+617, Christopher,Torres-Lugo
+618, Roland,Toth
+619, Masashi,Toyoda
+620, Angelika,Tsivinskaya
+621, Akira,Tsurushima
+622, Milena,Tsvetkova
+623, Benjamin,Turner
+624, Petter,Törnberg
+625, Yukiko,Uchida
+626, Johan,Ugander
+627, Justus,Uitermark
+628, Aleksandra,Urman
+629, Brian,Uzzi
+630, Francesco,Valle
+631, Ian,Van Buskirk
+632, Arnout,van de Rijt
+633, Mark,van der Loo
+634, Frank,van Tubergen
+635, Irma,Varela-Lasheras
+636, Krisztian,Varga
+637, Kush R.,Varshney
+638, Anthony,Vashevko
+639, Timoté,Vaucher
+640, Alexander,Verbraeck
+641, Jan Voltaire,Vergara
+642, Veniamin,Veselovsky
+643, Jorge,Victorino
+644, Carolina,Vieira
+645, Ramon,Villa-Cox
+646, Kyriacos,Vitalis
+647, Roland,von Horn
+648, Kira,von Kleist
+649, Ana,Vranić
+650, Claudia,Wagner
+651, Shoko,Wakamiya
+652, Isaac,Waller
+653, Jennifer L.,Walsh
+654, Dashun,Wang
+655, Leping,Wang
+656, Luping,Wang
+657, Russell,Wang
+658, Xinyi,Wang
+659, Yang,Wang
+660, K. Hunter,Wapman
+661, K. Hunter,Wapman
+662, Duncan,Watts
+663, Duncan,Watts
+664, Derek,Weber
+665, Ingmar,Weber
+666, Bernd,Weiß
+667, Katrin,Weller
+668, Robert,West
+669, Ryen W,White
+670, Mark E.,Whiting
+671, Arie,Wijayanto
+672, Robb,Willer
+673, Priscilla,Wong
+674, Lingfei,Wu
+675, Tim,Wulf
+676, Haoxiang,Xia
+677, Guo,Xiaolei
+678, Wang,Xinyue
+679, Wentao,Xu
+680, Timofey,Yalov
+681, Shun,Yamaya
+682, Jason,Yan
+683, Kai-Cheng,Yang
+684, Longqi,Yang
+685, Vicky Chuqiao,Yang
+686, Vivian,Yang
+687, Yunkang,Yang
+688, Jin,Yap
+689, Yian,Yin
+690, Jisung,Yoon
+691, Jisung,Yoon
+692, Hyejin,Youn
+693, Renzhe,Yu
+694, Yulin,Yu
+695, Zhang,Yundi
+696, Emilio,Zagheni
+697, Emilio,Zagheni
+698, Savvas,Zannettou
+699, Richard,Zemel
+700, Helen,Zeng
+701, Sam,Zhang
+702, Shuang,Zhang
+703, Wei,Zhang
+704, Chuqing,Zhao
+705, Xinyi,Zhao
+706, Sylvan,Zheng
+707, Qiankun,Zhong
+708, Alvin,Zhou
+709, Svetlana,Zhuchkova
+710, Assem,Zhunis
+711, Leila,Zia
+712, John,Ziegler
+713, Alper,Özbilen
+714, Suat,Özdemir
+715, Ahmed Furkan,Özkalay
