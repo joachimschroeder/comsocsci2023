@@ -60,7 +60,7 @@ The lectures in this class run over 8 weeks. Each week, we will post a number of
 * For the delivery:    
     * make your repository public (on the day of the assignment submission)    
     * upload the Jupyter notebook on DTU Learn    
-    * make sure that your code runs and renders all images, prints, etc. We recommend restarting the kernel under 'Kernel' and then clicking Cell --> Run all before uploading.    
+    * make sure that your code runs and renders all images, prints, etc. We recommend restarting the kernel under 'Kernel' and then clicking Cell **--> Run all before uploading.**    
     * double check that your file renders correctly. Remember that you'll be annoyed to get bad evaluations because no-one could see your plots.
 
 * To help me navigate the Notebook, it's a good idea to repeat the question you're answering.
@@ -117,6 +117,8 @@ The idea is that you can create much more complex, fun and interactive analysis 
 #### More about the website
 
 This part of the assignment is quite free. The main point of the website is to present your idea/analyses to the world in a way that showcases your use of what you've learned in class. It can be as simple as an old fashioned static web-page, and as complicated as you want it to be. Let your creativity run wild (but keep in mind that this is not a coding class - we care mostly about content and analysis).
+
+If you are not interested in developing your own website design, you can use [this template](https://github.com/lalessan/project-website-template).
 
 The website should be self-contained and tell the story of your dataset without the need for the Explainer Notebook (the purpose of the notebook is to provide additional details for interested readers). Here are some requirements
 
